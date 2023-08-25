@@ -15,6 +15,7 @@
     "symfony/cache": "^6.2"
   },
   "require-dev": {
-    "behat/behat": "^3.13"
+    "behat/behat": "^3.13",
+    "behat/mink": "dev-master"
   }
 }
